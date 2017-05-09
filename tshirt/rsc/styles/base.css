@@ -1,0 +1,7 @@
+body {background-color:#c2c2c2; background-image:url(http://tshirtosaurus.com/rsc/images/background.gif);background-repeat:no-repeat;background-position: center;}
+textarea{overflow:hidden;overflow-y: hidden;overflow-x: hidden;}
+.tinytext{ color:#FFFFFF; }
+.specsformlabelalign{text-align:right}
+.specssubmitalign{text-align:right}
+.orderformlabelalign{text-align:left}
+.ordersubmitalign{text-align:right}
